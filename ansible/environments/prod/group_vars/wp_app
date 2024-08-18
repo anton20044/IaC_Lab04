@@ -1,0 +1,3 @@
+wordpress_db_name: db
+wordpress_db_user: user
+wordpress_db_host: rc1a-e4bv84al1gq0bww0.mdb.yandexcloud.net
